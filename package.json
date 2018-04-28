@@ -1,28 +1,28 @@
 {
-  "name": "code-runner-student",
-  "version": "1.0.0",
-  "description": "A code runner, which uses the Tape and Express frameworks, that allows an individual student to check the correctness of his/her codes.",
-  "main": "code_runner.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/The-Last-Mile-JS/code-runner-student.git"
-  },
-  "keywords": [
-    "code-runner"
-  ],
-  "author": "Yong",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/The-Last-Mile-JS/code-runner-student/issues"
-  },
-  "homepage": "https://github.com/The-Last-Mile-JS/code-runner-student#readme",
-  "devDependencies": {
-    "tape": "^4.9.0"
-  },
-  "dependencies": {
-    "cli-color": "^1.2.0"
-  }
+    "name": "code-runner-student",
+    "version": "1.0.0",
+    "description": "A code runner, which uses the Tape and Express frameworks, that allows an individual student to check the correctness of his/her codes.",
+    "main": "code_runner.js",
+    "scripts": {
+        "lint": "eslint ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/The-Last-Mile-JS/code-runner-student.git"
+    },
+    "keywords": [
+        "code-runner"
+    ],
+    "author": "Yong",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/The-Last-Mile-JS/code-runner-student/issues"
+    },
+    "homepage": "https://github.com/The-Last-Mile-JS/code-runner-student#readme",
+    "devDependencies": {
+        "tape": "^4.9.0"
+    },
+    "dependencies": {
+        "cli-color": "^1.2.0"
+    }
 }
