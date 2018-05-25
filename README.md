@@ -10,8 +10,9 @@ A code runner, which uses the Tape.js unit-testing framework, that allows an ind
     - What to Modify?
 - [Usage (Student)](#usage)
     - [Commands](#commands)
-
-## How It Works <a name="mechanism"></a>
+    
+<a name="mechanism"></a>
+## How It Works 
 The `mainFunc` (where the students write the function solution) in the `module.exports` object and the unit tests are passed into the `Tape.js` driver *"code_runner.js"*. The driver runs the `mainFunc` against the unit tests, and the output of the unit-testing is formatted by *"tap.js"* before it is displayed on the Command Line Interface.<br><br>
 ![System](https://github.com/The-Last-Mile-JS/code-runner-student/blob/master/overall_view.png)
 
