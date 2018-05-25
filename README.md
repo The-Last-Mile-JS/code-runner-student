@@ -1,5 +1,5 @@
 # Code Runner (Student)
-[![Build Status](https://travis-ci.org/The-Last-Mile-JS/code-runner-student.svg?branch=master)](https://travis-ci.org/The-Last-Mile-JS/code-runner-student) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)<br>
+[![Build Status](https://travis-ci.org/The-Last-Mile-JS/code-runner-student.svg?branch=master)](https://travis-ci.org/The-Last-Mile-JS/code-runner-student) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)<br>
 A code runner, which uses the Tape.js unit-testing framework, that allows an individual student to check the correctness of his/her codes on the Command Line Interface (CLI). <br>
 
 ## Table of Content
