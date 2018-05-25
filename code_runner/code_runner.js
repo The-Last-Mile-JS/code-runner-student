@@ -1,7 +1,7 @@
 // assign the tape library to the variable "test"
 var testCode = require('tape');
 var unitTest = require("./unit_test");  // Unit tests
-var student = require("./problem");             // Written function
+var student = require("../problem");    // Written function
 
 
 testCode(unitTest.testCodeString, { timeout: 10000 }, function (t) {
